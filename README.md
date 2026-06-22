@@ -124,14 +124,32 @@ const huyHoang = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hoangthhe171527&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&custom_title=Huy%20Hoang%27s%20GitHub%20Stats" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=hoangthhe171527&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangthhe171527&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
+![Portfolio Scope](https://img.shields.io/badge/Product_%26_Tooling_Repos-22-2563EB?style=for-the-badge&logo=github&logoColor=white)
+![Owned](https://img.shields.io/badge/Owned-11-10B981?style=for-the-badge&logo=github&logoColor=white)
+![Contributor](https://img.shields.io/badge/Contributor-11-F97316?style=for-the-badge&logo=github&logoColor=white)
+![Related](https://img.shields.io/badge/Including_Profile_Repo-23-0F172A?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-> GitHub cards mainly reflect public repositories. The project tables above also include private repositories visible in my active workspace.
+| Repository scope | Count | Details |
+|---|---:|---|
+| Owned product/tool repositories | 11 | 4 public and 7 private repositories, excluding the profile README |
+| Contributor repositories | 11 | Repositories owned by teammates, organizations and project collaborators |
+| Product and tooling portfolio | 22 | Owned and contributor repositories combined |
+| Total related repositories | 23 | Portfolio scope plus the special GitHub profile repository |
+
+### Primary Language Mix
+
+| Primary language | Repositories | Share of 22-repo portfolio |
+|---|---:|---:|
+| TypeScript | 9 | 40.9% |
+| PHP | 5 | 22.7% |
+| Java | 3 | 13.6% |
+| Dart | 3 | 13.6% |
+| Shell | 1 | 4.5% |
+| Python | 1 | 4.5% |
+
+> Verified on June 22, 2026 from the authenticated personal repository list and 11 repositories where I contribute. Language shares count each repository once by GitHub's primary-language label, not by lines of code. Third-party streak, rank and top-language cards were intentionally omitted because they cannot accurately represent private and contributor repositories.
 
 ---
 
