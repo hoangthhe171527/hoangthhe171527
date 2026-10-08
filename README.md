@@ -1,62 +1,43 @@
 <div align="center">
 
-# Huy Hoang
+![Huy Hoang](https://capsule-render.vercel.app/api?type=rect&height=170&color=0:0F172A,100:0E7490&text=Huy%20Hoang&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Software%20Developer%20at%20EVOVI%20%E2%80%A2%20CTO%20at%20Sunrise%20IECO&descSize=17&descAlignY=66)
 
-**Software Developer at EVOVI · CTO at Sunrise IECO**
-
-Full-stack product engineer working across web, backend, mobile and AI-enabled systems.
-
-[Website](https://sunriseieco.vn) · [Email](mailto:admin@sunriseieco.vn) · [Repositories](https://github.com/hoangthhe171527?tab=repositories)
+[![Website](https://img.shields.io/badge/Website-sunriseieco.vn-0E7490?style=flat-square&logo=googlechrome&logoColor=white)](https://sunriseieco.vn)
+[![GitHub](https://img.shields.io/badge/GitHub-hoangthhe171527-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hoangthhe171527)
+[![Email](https://img.shields.io/badge/Email-admin%40sunriseieco.vn-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:admin@sunriseieco.vn)
 
 </div>
 
----
+## About
 
-## Profile
+Full-stack product engineer based in Vietnam, building reliable products across **web, backend, mobile and AI-enabled systems**.
 
-I am a software engineer based in Vietnam. I build and ship digital products from business requirements and system design through implementation, testing and deployment.
+## Experience
 
-My current work combines two roles:
+### [EVOVI](https://github.com/evovi-vn) — Software Developer
 
-- **Software Developer at [EVOVI](https://github.com/evovi-vn)** — contributing to education, operations and business-management products across frontend, backend APIs, mobile apps and AI services.
-- **CTO at [Sunrise IECO](https://sunriseieco.vn)** — leading technology direction and developing SaaS, commerce and workflow-automation products.
+Developing digital learning, business-management and field-operations products across frontend, APIs, mobile apps and AI services.
 
-## Work at EVOVI
+`Evo Books` · `Evo Books Studio` · `Evo AI Service` · `EvoHub` · `AdTracker` · `Elevator 360`
 
-| Product | Scope of work | Core technologies |
-|---|---|---|
-| **Evo Books LMS** | Learner and administration applications, backend APIs, digital content and customer-delivery workflows | React, TypeScript, Laravel, MongoDB |
-| **Evo Books Studio** | Book digitization, AI-assisted extraction, content review, quality assurance and structured export | React, FastAPI, MongoDB, Redis, S3 |
-| **Evo AI Service** | AI chat, tutoring, structured generation, safety controls and asynchronous processing for the LMS | Python, FastAPI, MongoDB, Redis, SSE |
-| **EvoHub** | Product development across web, API and Flutter mobile surfaces | TypeScript, Flutter, Dart, REST APIs |
-| **EVOVI AdTracker** | Taxi advertising campaigns, fleet operations, field check-ins, mileage reconciliation and compliance reporting | TanStack, FastAPI, Flutter, MongoDB |
-| **Elevator 360** | Multi-tenant elevator operations covering installation, maintenance, surveys, contracts, inventory and field work | React, TanStack, Laravel, Flutter, Firebase |
-| **EVOVI product pages** | Company, product, privacy, support and account-management pages | React, TypeScript, Tailwind CSS, Docker |
+### [Sunrise IECO](https://sunriseieco.vn) — CTO
 
-The EVOVI products are developed in private repositories. The table above describes the product areas and technologies without exposing internal source code or implementation details.
+Leading technology direction and full-stack delivery for SaaS, commerce and workflow-automation products.
 
-## Sunrise IECO & independent products
+[Sunrise IECO](https://sunriseieco.vn) · [Piano Beauty](https://pianobeauty.vn) · [Omni Flow](https://github.com/hoangthhe171527/omni-flow-app) · Wedding Platform · [Agent Skills](https://github.com/hoangthhe171527/agent-skills)
 
-| Product | Scope of work | Core technologies |
-|---|---|---|
-| **[Sunrise IECO](https://sunriseieco.vn)** | Technology direction, product strategy, delivery and company website | JavaScript, Docker, Nginx, Dokploy |
-| **[Piano Beauty](https://pianobeauty.vn)** | Full-stack piano e-commerce platform, content management, administration and API | React, TypeScript, TanStack, Laravel, MongoDB |
-| **[Omni Flow](https://github.com/hoangthhe171527/omni-flow-app)** | Multi-platform workflow automation with web, API, mobile and local integrations | TypeScript, Laravel, Flutter, REST APIs |
-| **Wedding Platform** | Web and mobile experience supported by a dedicated API | TypeScript, Flutter, Python |
-| **[Agent Skills](https://github.com/hoangthhe171527/agent-skills)** | Reusable workflows for repository analysis and AI-assisted software delivery | Shell, Markdown, Git |
+## Tech stack
 
-## Core stack
+<div align="center">
 
-| Area | Technologies |
-|---|---|
-| **Frontend** | TypeScript, React, TanStack Start, TanStack Query, Vite, Tailwind CSS, Radix UI |
-| **Backend** | PHP, Laravel, Python, FastAPI, REST APIs, JWT, background jobs |
-| **Data & infrastructure** | MongoDB, Redis, S3-compatible storage, Docker, Nginx, Dokploy |
-| **Mobile** | Flutter, Dart, Firebase, offline-first workflows |
-| **Engineering** | Modular architecture, testing, documentation, CI/CD and AI-assisted development |
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## Contact
-
-- **Website:** [sunriseieco.vn](https://sunriseieco.vn)
-- **Email:** [admin@sunriseieco.vn](mailto:admin@sunriseieco.vn)
-- **GitHub:** [github.com/hoangthhe171527](https://github.com/hoangthhe171527)
+</div>
