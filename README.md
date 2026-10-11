@@ -20,7 +20,7 @@ Developing digital learning, business-management and field-operations products a
 
 `Evo Books` · `Evo Books Studio` · `Evo AI Service` · `EvoHub` · `AdTracker` · `Elevator 360`
 
-### [Sunrise IECO](https://sunriseieco.vn) — CTO
+### [Sunrise IECO](https://sunriseieco.vn) 
 
 Leading technology direction and full-stack delivery for SaaS, commerce and workflow-automation products.
 
