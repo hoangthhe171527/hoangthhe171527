@@ -1,6 +1,6 @@
 <div align="center">
 
-![Huy Hoang](https://capsule-render.vercel.app/api?type=rect&height=170&color=0:0F172A,100:0E7490&text=Huy%20Hoang&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Software%20Developer%20at%20EVOVI%20%E2%80%A2%20CTO%20at%20Sunrise%20IECO&descSize=17&descAlignY=66)
+![Huy Hoang](https://capsule-render.vercel.app/api?type=rect&height=170&color=0:0F172A,100:0E7490&text=Huy%20Hoang&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Software%20Developer%20at%20EVOVI%20%E2%80%A2%20%20Sunrise%20IECO&descSize=17&descAlignY=66)
 
 [![Website](https://img.shields.io/badge/Website-sunriseieco.vn-0E7490?style=flat-square&logo=googlechrome&logoColor=white)](https://sunriseieco.vn)
 [![GitHub](https://img.shields.io/badge/GitHub-hoangthhe171527-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hoangthhe171527)
